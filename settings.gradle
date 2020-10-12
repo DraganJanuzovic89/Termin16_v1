@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Termin16_v1"
